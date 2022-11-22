@@ -1,6 +1,6 @@
 variable "resource_group" {
   description = "The resource group"
-  default = "daniel-sv-group"
+  default = "daniel-terraform-group"
 }
 
 variable "application_name" {
