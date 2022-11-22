@@ -1,6 +1,6 @@
 variable "resource_group" {
   description = "The resource group"
-  default = "Daniel_SV_Group"
+  default = "Daniel-SV-Group"
 }
 
 variable "application_name" {
