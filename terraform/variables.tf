@@ -1,11 +1,11 @@
 variable "resource_group" {
   description = "The resource group"
-  default = "Daniel-SV-Group"
+  default = "daniel-sv-group"
 }
 
 variable "application_name" {
   description = "The Spring Boot application name"
-  default     = "TerraformDeployment"
+  default     = "terraform-deployment"
 }
 
 variable "location" {
